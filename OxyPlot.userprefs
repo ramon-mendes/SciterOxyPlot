@@ -1,0 +1,29 @@
+<Properties StartupItem="OxyPlot/OxyPlotOSX.csproj">
+  <MonoDevelop.Ide.ItemProperties.OxyPlot PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="OxyPlot/Src/Host.cs">
+    <Files>
+      <File FileName="OxyPlot/Src/Host.cs" Line="24" Column="3" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OxyPlot" expanded="True">
+            <Node name="OxyPlotOSX" expanded="True">
+              <Node name="Src" expanded="True" />
+              <Node name="packages.config" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x64" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>OxyPlot/OxyPlotGTK.csproj</String>
+    <String>OxyPlot/OxyPlotWindows.csproj</String>
+  </DisabledProjects>
+</Properties>
